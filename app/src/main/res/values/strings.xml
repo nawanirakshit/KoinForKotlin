@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Koin For Kotlin</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_internet">No Internet Available</string>
+</resources>
