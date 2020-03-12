@@ -27,4 +27,6 @@ Use below dependencies to start working (Update versions according to the librar
 
 Feel free to us this code/files in your project.
 
+Read my whole here https://blog.rakshit.tech/blog/2020/03/12/koin-a-dependency-injection-for-androidkotlin/
+
 
